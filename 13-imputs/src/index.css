@@ -1,3 +1,15 @@
+.app, .home, .demo {
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 5px;
+
+box-shadow: 0 10px 20px  rgba(0, 0, 82, 0.902);
+padding: 20px;
+border-radius: 10px;
+margin: 20px;
+}
 :root {
   --text: #6b6375;
   --text-h: #08060d;

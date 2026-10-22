@@ -4,27 +4,17 @@ function Oraçaoback() {
   return (
     <div>
         <h2>Oraçao do backend</h2>
-        <h3>Nosso código que está no servidor,
-
-Santificado seja o teu endpoint,
-
-Venha a nós o teu JSON,
-
-Seja feita tua lógica,
-
-Assim na API como no banco.
-
-O token nosso de cada dia nos dai hoje,
-
-Perdoai nossas queries mal otimizadas,
-
-Assim como nós perdoamos quem nos envia POST sem body.
-
-E não nos deixes cair em loops infinitos,
-
-Mas livrai-nos do downtime.
-
-Amém, amém, status 200.</h3>
+<p>        Nosso código que está no servidor,</p>
+<p>Santificado seja o teu endpoint,</p>
+<p>Venha a nós o teu JSON,</p>
+<p>Seja feita tua lógica,</p>
+<p>Assim na API como no banco.</p>
+<p>O token nosso de cada dia nos dai hoje,</p>
+<p>Perdoai nossas queries mal otimizadas,</p>
+<p>Assim como nós perdoamos quem nos envia POST sem body.</p>
+<p>E não nos deixes cair em loops infinitos,</p>
+<p>Mas livrai-nos do downtime.</p>
+<p>Amém, amém, status 200.</p>
     </div>
   )
 }
