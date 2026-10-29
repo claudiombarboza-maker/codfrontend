@@ -4,6 +4,5 @@ function Pneus() {
   return (
     <div className='pneu'></div>
   )
-}
 
 export default Pneus
